@@ -4,7 +4,7 @@ Personal portfolio site for Rajesh Dammala — SRE leadership profile showcasing
 
 ## Live Site
 
-[https://rdammala.github.io/Senior-Manager-SRE/](https://rdammala.github.io/Senior-Manager-SRE/)
+[https://rdammala-org.github.io/Senior-Manager-SRE/](https://rdammala-org.github.io/Senior-Manager-SRE/)
 
 ## Tech Stack
 
